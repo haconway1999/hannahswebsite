@@ -3,16 +3,27 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/cat.png
 ---
 
 :::{#me}
 
+Hi, my name is Romeo. I love cuddling and begging for attention. I was adopted for \$200 along with my brother, and I racked up \$7,000 in medical bills during the first month of being adopted.
+
 ## Goals
+* Lick plastic
+* Purr the loudest
+* Explore the world
 
 ## Education
+Hannah's University for Cats
+*Expected graduation: Oct 2026*
 
-## Experience
+## Skills
+* Can give high fives as high as two feet off the ground
+* Can spin on command
+* Will stand and hang out on shoulders as necessary
+* Will come running anytime "Never Gonna Give You Up" by Rick Astley plays
 
 :::
 

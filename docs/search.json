@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Last month I added high fiving to the list of tricks I can do. It didn’t take very long and now I will run across the room to high five you if you ask."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Last month I added high fiving to the list of tricks I can do. It didn’t take very long and now I will run across the room to high five you if you ask."
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nI am almost leash trained! Now that I am comfortable with my harness, the next steps are learning how to gain courage to explore the outside."
   },
   {
     "objectID": "projects.html#project-3",
@@ -18,6 +32,27 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Hi, my name is Romeo. I love cuddling and begging for attention. I was adopted for $200 along with my brother, and I racked up $7,000 in medical bills during the first month of being adopted.\n\n\n\nLick plastic\nPurr the loudest\nExplore the world\n\n\n\n\nHannah’s University for Cats Expected graduation: Oct 2026\n\n\n\n\nCan give high fives as high as two feet off the ground\nCan spin on command\nWill stand and hang out on shoulders as necessary\nWill come running anytime “Never Gonna Give You Up” by Rick Astley plays\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Lick plastic\nPurr the loudest\nExplore the world"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Hannah’s University for Cats Expected graduation: Oct 2026"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Can give high fives as high as two feet off the ground\nCan spin on command\nWill stand and hang out on shoulders as necessary\nWill come running anytime “Never Gonna Give You Up” by Rick Astley plays"
   }
 ]
